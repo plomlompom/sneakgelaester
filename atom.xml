@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+<title>Sneakgeläster</title>
+<subtitle>Der Sneak-Preview-Podcast von @toxoplasmoese und @plomlompom.</subtitle>
+<link href="http://plomlompom.github.io/sneakgelaester/atom.xml" rel="self" />
+<link href="http://plomlompom.github.io/sneakgelaester/" />
+<id>tag:c.heller@plomlompom.de,2014-01-10:sneakgelaester/atom.xml</id>
+<updated>2014-01-10T03:40:00Z</updated>
+<author>
+<name>toxoplasmoese</name>
+</author>
+<author>
+<name>plomlompom</name>
+<email>c.heller@plomlompom.de</email>
+</author>
+
+<entry>
+<title>2014-01-07: Twelve Years A Slave</title>
+<link href="http://plomlompom.github.io/sneakgelaester/WS_20024.WMA" />
+<id>tag:c.heller@plomlompom.de,2014-01-07:sneakgelaester/twelve_years_a_slave</id>
+<updated>2014-01-08T02:00:00Z</updated>
+</entry>
+ 
+</feed>
