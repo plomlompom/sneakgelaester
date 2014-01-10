@@ -4,7 +4,7 @@
  
 <title>Sneakgeläster</title>
 <subtitle>Der Sneak-Preview-Podcast von @toxoplasmoese und @plomlompom.</subtitle>
-<link rel="self" href="http://plomlompom.github.io/sneakgelaester/atom.xml" />
+<link rel="self" type="application/xml" href="http://plomlompom.github.io/sneakgelaester/atom.xml" />
 <link rel="alternate" type="text/html" href="http://plomlompom.github.io/sneakgelaester/" />
 <id>tag:c.heller@plomlompom.de,2014-01-10:sneakgelaester/atom.xml</id>
 <author>
