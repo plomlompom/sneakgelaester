@@ -14,7 +14,7 @@
 <name>plomlompom</name>
 <email>c.heller@plomlompom.de</email>
 </author>
-<updated>2014-04-01T01:10:00Z</updated>
+<updated>2014-04-01T01:35:00Z</updated>
 
 <entry>
 <title>2014-03-31, Filmtheater am Friedrichshain: "A Long Way Down"</title>
@@ -30,20 +30,20 @@
 <title>2014-03-24, Filmtheater am Friedrichshain: "Her"</title>
 <link rel="alternate" type="text/html" href="http://plomlompom.github.io/sneakgelaester/index.html#2014-03-24" />
 <link rel="enclosure" type="audio/x-ms-asf" length="6260706" href="http://plomlompom.github.io/sneakgelaester/WS_20025.WMA" />
-<link rel="enclosure" type="audio/mpeg" length="18581975" href="http://plomlompom.github.io/sneakgelaester/WS_20025.mp3" />
-<link rel="enclosure" type="application/ogg" length="10374345" href="http://plomlompom.github.io/sneakgelaester/WS_20025.ogg" />
+<link rel="enclosure" type="audio/mpeg" length="6194083" href="http://plomlompom.github.io/sneakgelaester/WS_20025.mp3" />
+<link rel="enclosure" type="application/ogg" length="5869033" href="http://plomlompom.github.io/sneakgelaester/WS_20025.ogg" />
 <id>tag:c.heller@plomlompom.de,2014-03-24:sneakgelaester/her</id>
-<updated>2014-03-25T03:10:00Z</updated>
+<updated>2014-04-01T01:35:00Z</updated>
 </entry>
 
 <entry>
 <title>2014-01-07, Kino Passage: "Twelve Years A Slave"</title>
 <link rel="alternate" type="text/html" href="http://plomlompom.github.io/sneakgelaester/index.html#2014-01-07" />
 <link rel="enclosure" type="audio/x-ms-asf" length="7944828" href="http://plomlompom.github.io/sneakgelaester/WS_20024.WMA" />
-<link rel="enclosure" type="audio/mpeg" length="15717772" href="http://plomlompom.github.io/sneakgelaester/WS_20024.mp3" />
-<link rel="enclosure" type="application/ogg" length="13366840" href="http://plomlompom.github.io/sneakgelaester/WS_20024.ogg" />
+<link rel="enclosure" type="audio/mpeg" length="7861740" href="http://plomlompom.github.io/sneakgelaester/WS_20024.mp3" />
+<link rel="enclosure" type="application/ogg" length="7159750" href="http://plomlompom.github.io/sneakgelaester/WS_20024.ogg" />
 <id>tag:c.heller@plomlompom.de,2014-01-07:sneakgelaester/twelve_years_a_slave</id>
-<updated>2014-01-11T01:05:00Z</updated>
+<updated>2014-04-01T01:35:00Z</updated>
 </entry>
 
 </feed>
